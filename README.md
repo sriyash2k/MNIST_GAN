@@ -1,6 +1,6 @@
 # MNIST_GAN
 
-Engineered a Generative Adversarial Network(GAN) to generate grayscale images of hand-written digits,without using the layers normally used in a Convolutional Neural Network to see how well would an Artificial Neural Network perform in a task better suited for a Convolutional Neural Network.Achieved 35% "Generator",and 17% "Discriminator" accuracy, respectively.
+Engineered a Generative Adversarial Network(GAN) to generate grayscale images of hand-written digits,without using the layers normally used in a Convolutional Neural Network to see how well would an Artificial Neural Network perform in a task better suited for a Convolutional Neural Network.Achieved 35% "Generator",and 17% "Discriminator" accuracies, respectively.
 
 <b>MNIST Dataset</b>
 
